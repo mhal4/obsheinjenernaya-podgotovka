@@ -1,1 +1,1 @@
-# obsheinjenernaya-podgotovka
+Общеинженерная подготовка
